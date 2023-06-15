@@ -2,7 +2,7 @@
 
 const config = {
   github: {
-    username: 'AdamClements3', // Your GitHub org/user name. (Required)
+    username: 'adamclements3', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
     limit: 10, // How many projects to display.
     exclude: {
@@ -95,7 +95,7 @@ const config = {
   blog: {
     source: 'dev', // medium | dev
     username: 'arifszn', // to hide blog section, keep it empty
-    limit: 0, // How many posts to display. Max is 10.
+    limit: 2, // How many posts to display. Max is 10.
   },
   googleAnalytics: {
     id: 'G-KJR75011VD', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
@@ -166,11 +166,13 @@ const config = {
   },
 
   // Optional Footer. Supports plain text or HTML.
+  /*
   footer: `Made with <a 
       class="text-primary" href="https://github.com/arifszn/gitprofile"
       target="_blank"
       rel="noreferrer"
     >GitProfile</a>`,
+    */
 };
 
 export default config;
