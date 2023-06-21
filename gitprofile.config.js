@@ -41,6 +41,11 @@ const config = {
     'Unix/Linux',
     'Command Line',
     'PLC',
+    'HTML',
+    'CSS',
+    'Javascript',
+    'Django',
+    
   ],
   experiences: [
     {
