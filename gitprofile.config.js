@@ -25,7 +25,7 @@ const config = {
     telegram: '',
     website: 'AdamClements3.github.io',
     phone: '',
-    email: 'awc919@gmail.com',
+    email: '',
   },
   resume: {
     fileUrl:
