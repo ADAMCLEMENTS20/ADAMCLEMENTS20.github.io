@@ -1,3 +1,15 @@
+/* Insert above Avatar for theme switcher
+
+                      {!sanitizedConfig.themeConfig.disableSwitch && (
+                        <ThemeChanger
+                          theme={theme}
+                          setTheme={setTheme}
+                          loading={loading}
+                          themeConfig={sanitizedConfig.themeConfig}
+                        />
+                      )}
+*/
+
 import axios from 'axios';
 import { Fragment, useCallback, useEffect, useState } from 'react';
 import HeadTagEditor from './head-tag-editor';
@@ -157,16 +169,6 @@ const GitProfile = ({ config }) => {
                 <div className="grid grid-cols-1 lg:grid-cols-3 gap-6 rounded-box">
                   <div className="col-span-1">
                     <div className="grid grid-cols-1 gap-6">
-                      /*
-                      {!sanitizedConfig.themeConfig.disableSwitch && (
-                        <ThemeChanger
-                          theme={theme}
-                          setTheme={setTheme}
-                          loading={loading}
-                          themeConfig={sanitizedConfig.themeConfig}
-                        />
-                      )}
-                      */
                       <AvatarCard
                         profile={profile}
                         loading={loading}
