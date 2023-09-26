@@ -105,7 +105,7 @@ const config = {
       description:
         'Machine Learning model trainer for stock movement',
       imageUrl: 'https://imgur.com/a/VW86wam',
-      link: 'https://example.com',
+      link: 'https://github.com/AdamClements3/StockPredictionMLModel',
     },
     {
       title: 'N x N x N Tic-Tac-Toe Smart Computer Player',
