@@ -24,8 +24,8 @@ const config = {
     skype: '',
     telegram: '',
     website: 'AdamClements3.github.io',
-    phone: '',
-    email: '',
+    phone: '+1 (803)-667-2373',
+    email: 'awc919@gmail.com',
   },
   resume: {
     fileUrl:
@@ -96,29 +96,29 @@ const config = {
     {
       title: 'CU Courseview',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: 'https://via.placeholder.com/250x250',
+        'All-in-One tool to simplify the course registration process for Clemson Students',
+      imageUrl: 'https://imgur.com/a/WoJ4rd6',
       link: 'https://example.com',
     },
     {
       title: 'Stock Prediction Machine Learning Models',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: 'https://via.placeholder.com/250x250',
+        'Machine Learning model trainer for stock movement',
+      imageUrl: 'https://imgur.com/a/VW86wam',
       link: 'https://example.com',
     },
     {
-      title: 'N x N x N Tic-Tac-Toe game and smart computer player',
+      title: 'N x N x N Tic-Tac-Toe Smart Computer Player',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: 'https://via.placeholder.com/250x250',
+        '3D scaleable Tic-Tac-Toe game and a very strong computer opponent.',
+      imageUrl: 'https://imgur.com/a/H3GJqjt',
       link: 'https://example.com',
     },
     {
       title: 'All-In-One Data Structures (WIP)',
       description:
-        'An all-in-one collection of many data structures and the algorithms needed to utilize them effectively. This is both a learning tool for me and anyone else who would like to see how these algorithms and data structures work.',
-      imageUrl: 'https://via.placeholder.com/250x250',
+        'An all-in-one collection of many data structures and the algorithms needed to utilize them effectively.',
+      imageUrl: 'https://imgur.com/a/nsuearc',
       link: 'https://example.com',
     },
   ],
