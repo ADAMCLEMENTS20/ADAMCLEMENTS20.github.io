@@ -97,7 +97,7 @@ const config = {
       title: 'CU Courseview',
       description:
         'All-in-One tool to simplify the course registration process for Clemson Students',
-      imageUrl: 'https://imgur.com/a/WoJ4rd6',
+      imageUrl: 'https://imgur.com/a/KV6w5QZ',
       link: 'https://example.com',
     },
     {
