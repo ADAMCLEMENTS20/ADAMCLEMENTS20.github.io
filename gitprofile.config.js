@@ -98,7 +98,7 @@ const config = {
       description:
         'All-in-One tool to simplify the course registration process for Clemson Students',
       imageUrl: 'https://imgur.com/a/KV6w5QZ',
-      link: 'https://example.com',
+      link: 'https://github.com/AdamClements3/Courseview',
     },
     {
       title: 'Stock Prediction Machine Learning Models',
@@ -112,14 +112,14 @@ const config = {
       description:
         '3D scaleable Tic-Tac-Toe game and a very strong computer opponent.',
       imageUrl: 'https://imgur.com/a/H3GJqjt',
-      link: 'https://example.com',
+      link: 'https://github.com/AdamClements3/NxNxNTTTBot',
     },
     {
       title: 'All-In-One Data Structures (WIP)',
       description:
         'An all-in-one collection of many data structures and the algorithms needed to utilize them effectively.',
       imageUrl: 'https://imgur.com/a/nsuearc',
-      link: 'https://example.com',
+      link: 'https://github.com/AdamClements3/DataStructures',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
