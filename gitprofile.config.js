@@ -29,7 +29,7 @@ const config = {
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://drive.google.com/file/d/1eWkROhTPaAPZz_rfDZyKzqtsv3yzZt9l/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'C++',
@@ -49,8 +49,14 @@ const config = {
   ],
   experiences: [
     {
+      company: 'Clemson University',
+      position: 'Algorithms and Data Structures TA',
+      from: 'August 2023',
+      to: 'Present',
+    },
+    {
       company: 'Escapology Columbia',
-      position: 'PLC/Tech',
+      position: 'PLC Technician/Handyman',
       from: 'May 2019',
       to: 'July 2022',
       companyLink: 'https://www.escapology.com/en/columbia-sc',
@@ -72,40 +78,46 @@ const config = {
       to: 'December 2024',
     },
     {
+      institution: 'South Carolina Governor\'s School',
+      degree: 'ACCELERATE Program',
+      from: 'August 2019',
+      to: 'June 2022',
+    },
+    {
       institution: 'Lexington High School',
       degree: 'High School Diploma',
-      from: '2018',
-      to: '2022',
+      from: 'August 2018',
+      to: 'June 2022',
     },
   ],
 
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'Project Name',
+      title: 'CU Courseview',
       description:
         'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
       imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://example.com',
     },
     {
-      title: 'Project Name',
+      title: 'Stock Prediction Machine Learning Models',
       description:
         'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
       imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://example.com',
     },
     {
-      title: 'Project Name',
+      title: 'N x N x N Tic-Tac-Toe game and smart computer player',
       description:
         'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
       imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://example.com',
     },
     {
-      title: 'Project Name',
+      title: 'All-In-One Data Structures (WIP)',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+        'An all-in-one collection of many data structures and the algorithms needed to utilize them effectively. This is both a learning tool for me and anyone else who would like to see how these algorithms and data structures work.',
       imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://example.com',
     },
