@@ -29,7 +29,7 @@ const config = {
   },
   resume: {
     fileUrl:
-      'https://drive.google.com/file/d/1eWkROhTPaAPZz_rfDZyKzqtsv3yzZt9l/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
+      'https://drive.google.com/file/d/1uMefABRlvQtHoixLjytMNy02RMqQ3nz0/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'C++',
@@ -67,7 +67,7 @@ const config = {
       name: 'SOLIDWORKS CSWA - Mechanical Design',
       body: '',
       year: 'May 2022',
-      link: 'https://www.solidworks.com/certifications/mechanical-design-cswa-mechanical-design'
+      link: 'https://drive.google.com/file/d/1NJUt8PYuRrWnumZLnx0LwTK73jXBcDKK/view?usp=sharing'
     },
   ],
   education: [
