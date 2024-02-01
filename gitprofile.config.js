@@ -115,9 +115,9 @@ const config = {
       link: 'https://github.com/AdamClements3/NxNxNTTTBot',
     },
     {
-      title: 'All-In-One Data Structures (WIP)',
+      title: 'AWBot',
       description:
-        'An all-in-one collection of many data structures and the algorithms needed to utilize them effectively.',
+        'AI Chatbot that mimics Albert Wesker from Resident Evil',
       imageUrl: 'https://imgur.com/a/nsuearc',
       link: 'https://github.com/AdamClements3/DataStructures',
     },
