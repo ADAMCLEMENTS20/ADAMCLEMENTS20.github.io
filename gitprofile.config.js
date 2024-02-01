@@ -97,14 +97,14 @@ const config = {
       title: 'CU Courseview',
       description:
         'All-in-One tool to simplify the course registration process for Clemson Students',
-      imageUrl: 'https://imgur.com/a/KV6w5QZ',
+      imageUrl: 'https://i.pinimg.com/474x/79/04/30/7904300a06eb43dc11f44c7f908ff5d5.jpg',
       link: 'https://github.com/AdamClements3/Courseview',
     },
     {
       title: 'Stock Prediction Machine Learning Models',
       description:
         'Machine Learning model trainer for stock movement',
-      imageUrl: 'https://imgur.com/a/VW86wam',
+      imageUrl: 'https://static.vecteezy.com/system/resources/previews/002/258/888/original/candlestick-graph-bar-vector.jpg',
       link: 'https://github.com/AdamClements3/StockPredictionMLModel',
     },
     {
@@ -118,7 +118,7 @@ const config = {
       title: 'AWBot',
       description:
         'AI Chatbot that mimics Albert Wesker from Resident Evil',
-      imageUrl: 'https://imgur.com/a/nsuearc',
+      imageUrl: 'https://i.pinimg.com/736x/63/4d/ed/634dedfa8ae35f67f3642e11ad6d9a6e.jpg',
       link: 'https://github.com/AdamClements3/AWBot',
     },
   ],
