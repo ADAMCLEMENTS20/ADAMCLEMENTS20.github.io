@@ -119,7 +119,7 @@ const config = {
       description:
         'AI Chatbot that mimics Albert Wesker from Resident Evil',
       imageUrl: 'https://imgur.com/a/nsuearc',
-      link: 'https://github.com/AdamClements3/DataStructures',
+      link: 'https://github.com/AdamClements3/AWBot',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
