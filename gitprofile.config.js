@@ -111,7 +111,7 @@ const config = {
       title: 'N x N x N Tic-Tac-Toe Smart Computer Player',
       description:
         '3D scaleable Tic-Tac-Toe game and a very strong computer opponent.',
-      imageUrl: 'https://imgur.com/a/H3GJqjt',
+      imageUrl: 'https://play-lh.googleusercontent.com/zPxLgj5nvl20ahJV7aFC6S5mD8kii5CEEDj25j1P9CYAfXL9sdDuO-8eES0r4DhJHrU',
       link: 'https://github.com/AdamClements3/NxNxNTTTBot',
     },
     {
