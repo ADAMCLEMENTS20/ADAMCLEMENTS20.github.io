@@ -108,11 +108,11 @@ const config = {
       link: 'https://github.com/AdamClements3/StockPredictionMLModel',
     },
     {
-      title: 'N x N x N Tic-Tac-Toe Smart Computer Player',
+      title: 'Text-Based Adventure Game',
       description:
-        '3D scaleable Tic-Tac-Toe game and a very strong computer opponent.',
-      imageUrl: 'https://play-lh.googleusercontent.com/zPxLgj5nvl20ahJV7aFC6S5mD8kii5CEEDj25j1P9CYAfXL9sdDuO-8eES0r4DhJHrU',
-      link: 'https://github.com/AdamClements3/NxNxNTTTBot',
+        'Text-Based Adventure game built by myself and some friends in High School',
+      imageUrl: 'https://www.lifewire.com/thmb/UNFAOJgy1mz6j2WZkSDmOYKGqJg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ADVENT_--_Will_Crowthers_original_version-eae8cf8ae2144d2ba58bd5ca42708845.png',
+      link: 'https://github.com/AdamClements3/https://github.com/AdamClements3/TextBasedAdventureGame',
     },
     {
       title: 'AWBot',
